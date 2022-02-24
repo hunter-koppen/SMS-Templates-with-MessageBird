@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.mendix.com/package/1.0/">
+  <modelerProject xmlns="http://www.mendix.com/modelerProject/1.0/">
+    <module name="SMSTemplates" />
+    <projectFile path="project.mpr" />
+    <files>
+      <file path="javasource\smstemplates\actions\ReplaceSMSTemplateTokens.java" />
+      <file path="themesource\smstemplates\native\design-properties.json" />
+      <file path="themesource\smstemplates\native\main.js" />
+      <file path="themesource\smstemplates\web\design-properties.json" />
+      <file path="themesource\smstemplates\web\main.scss" />
+    </files>
+  </modelerProject>
+</package>
